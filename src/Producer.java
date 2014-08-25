@@ -1,3 +1,8 @@
+/**
+ *  Copyright (C) 2014 BISMOY MURASING <bmurasing@gmail.com>
+ * 
+ *  The codes cannot be shared without the express permission of the author : Bismoy Murasing.
+ */
 import java.util.ArrayList;
 import java.util.LinkedHashSet;
 import java.util.Scanner;
